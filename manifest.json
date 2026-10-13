@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "Gouki & D/D Card Binder",
+  "short_name": "Gouki Binder",
+  "description": "Checklist personal para cartas Gouki, D/D, D/D/D y D.D. clásico.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#151020",
+  "theme_color": "#171126",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
